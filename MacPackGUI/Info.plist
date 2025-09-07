@@ -1,0 +1,38 @@
+<key>CFBundleDocumentTypes</key>
+<array>
+    <dict>
+        <key>CFBundleTypeName</key>
+        <string>MacPack Bundle</string>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>LSHandlerRank</key>
+        <string>Owner</string>
+        <key>LSItemContentTypes</key>
+        <array>
+            <string>com.maniarasteh.macpack.mpb</string>
+        </array>
+    </dict>
+</array>
+
+<key>UTExportedTypeDeclarations</key>
+<array>
+    <dict>
+        <key>UTTypeIdentifier</key>
+        <string>com.maniarasteh.macpack.mpb</string>
+        <key>UTTypeDescription</key>
+        <string>MacPack Bundle</string>
+        <key>UTTypeConformsTo</key>
+        <array>
+            <string>public.archive</string>
+        </array>
+        <key>UTTypeTagSpecification</key>
+        <dict>
+            <key>public.filename-extension</key>
+            <array>
+                <string>mpb</string>
+            </array>
+            <key>public.mime-type</key>
+            <string>application/zip</string>
+        </dict>
+    </dict>
+</array>
