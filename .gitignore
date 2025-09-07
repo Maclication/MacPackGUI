@@ -30,7 +30,7 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
-Build/
+build/
 
 # CocoaPods
 #
@@ -61,3 +61,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS-specific files
+__MACOSX/
+.DS_Store
